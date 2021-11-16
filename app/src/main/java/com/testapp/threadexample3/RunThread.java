@@ -1,8 +1,8 @@
 package com.testapp.threadexample3;
-
-
-import com.testapp.threadexample3.Thread1;
-
+/**
+ *
+ * This class is used for demonstration of how to create thread with Association in Java.
+ */
 public class RunThread {
 
     public static void main(String...z) {

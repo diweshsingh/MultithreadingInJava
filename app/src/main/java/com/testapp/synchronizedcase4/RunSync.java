@@ -1,5 +1,8 @@
 package com.testapp.synchronizedcase4;
-
+/**
+ * Case 4
+ * This class is used for demonstration of static synchronized method in Java.
+ */
 public class RunSync {
 
     public static void main(String ...z){

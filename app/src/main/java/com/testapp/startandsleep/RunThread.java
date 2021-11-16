@@ -1,5 +1,8 @@
 package com.testapp.startandsleep;
 
+/**
+ * This class is used for demonstration of how to use start and sleep method in Java.
+ */
 public class RunThread {
 
     public static void main(String...z) {

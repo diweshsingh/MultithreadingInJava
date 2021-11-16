@@ -1,5 +1,8 @@
 package com.testapp.synchronization;
 
+/**
+ * This class is used for demonstration of normal use case of synchronization in Java.
+ */
 public class RunSync {
 
     public static void main(String ...z){

@@ -1,5 +1,8 @@
 package com.testapp.threadexample;
-
+/**
+ *
+ * This class is used for demonstration of how to create thread with inheritance in Java.
+ */
 public class RunThread {
 
     public static void main(String...z) {
